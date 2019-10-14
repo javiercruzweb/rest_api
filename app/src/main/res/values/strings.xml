@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rest</string>
+    <string name="api_error">Ocurrió un error, intente más tarde.</string>
+</resources>
